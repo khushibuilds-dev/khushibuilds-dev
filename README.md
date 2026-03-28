@@ -17,11 +17,11 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 - [ ] Completing the freeCodeCamp Certification 🏆
 
 ### 📊 My GitHub Stats:
-![Khushi's GitHub stats](https://github-readme-stats.vercel.app)
+![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushibuilds-dev)
 
 ### 📫 Let's Connect:
 - 📧 Email: [khu4656@gmail.com](mailto:khu4656@gmail.com)
-- 🌐 Portfolio: [Explore My Projects](https://khushibuilds-dev.github.io)
+- 🌐 Portfolio: [Explore My Projects](https://github.com/khushibuilds-dev/fcc-coding-journey)
 
 ---
 
