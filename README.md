@@ -17,7 +17,9 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 - [ ] Completing the freeCodeCamp Certification 🏆
 
 ### 📊 My GitHub Stats:
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=khushibuilds-dev)
+<a href="https://github.com">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushibuilds-dev" alt="Khushi's GitHub Stats" />
+</a>
 
 ### 📫 Let's Connect:
 - 📧 Email: [khu4656@gmail.com](mailto:khu4656@gmail.com)
