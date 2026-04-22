@@ -23,7 +23,7 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 
 ### 📫 Let's Connect:
 - 📧 Email: [khu4656@gmail.com](mailto:khu4656@gmail.com)
-- 🌐 Portfolio: [Explore My Projects](index.html)
+- 🌐 Portfolio: [Explore My Projects](https://khushibuilds-dev.github.io/fcc-coding-journey/)
 
 ---
 
