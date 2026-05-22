@@ -21,6 +21,7 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=khushibuilds-dev" alt="Khushi's GitHub Stats" />
 </a>
 
+
 ### 📫 Let's Connect:
 - 📧 Email: [khu4656@gmail.com](mailto:khu4656@gmail.com)
 - 🌐 Portfolio: [Explore My Projects](https://khushibuilds-dev.github.io/fcc-coding-journey/)
@@ -28,7 +29,7 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 
 ### 🧬 My Coding Roots
 "I started my journey on an entry-level Intel Celeron laptop with 4GB RAM, proving that mindset matters more than machines."
-
+<img src="old laptop.PNG" alt="My  journey proof a old laptop picture">
 
 
 ---
