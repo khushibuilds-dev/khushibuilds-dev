@@ -12,7 +12,7 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 - [x] HTML5 Basics & Semantic Elements
 - [x] HTML Forms & Input Validation
 - [x] Building Structured Tables & Lists
-- [ ] CSS Fundamentals (Colors, Fonts, Spacing)
+- [x] CSS Fundamentals (Colors, Fonts, Spacing)
 - [ ] Responsive Design with Flexbox & Grid
 - [ ] Completing the freeCodeCamp Certification 🏆
 
@@ -24,6 +24,12 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 ### 📫 Let's Connect:
 - 📧 Email: [khu4656@gmail.com](mailto:khu4656@gmail.com)
 - 🌐 Portfolio: [Explore My Projects](https://khushibuilds-dev.github.io/fcc-coding-journey/)
+
+
+### 🧬 My Coding Roots
+"I started my journey on an entry-level Intel Celeron laptop with 4GB RAM, proving that mindset matters more than machines."
+
+
 
 ---
 
