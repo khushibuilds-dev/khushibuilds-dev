@@ -13,8 +13,8 @@ Welcome to my coding journey! 🚀 I am an **Aspiring Web Developer** from Luckn
 - [x] HTML Forms & Input Validation
 - [x] Building Structured Tables & Lists
 - [x] CSS Fundamentals (Colors, Fonts, Spacing)
-- [ ] Responsive Design with Flexbox & Grid
-- [ ] Completing the freeCodeCamp Certification 🏆
+- [x] Responsive Design with Flexbox & Grid
+- [x] Completing the freeCodeCamp Certification 🏆
 
 ### 📊 My GitHub Stats:
 <a href="https://github.com">
